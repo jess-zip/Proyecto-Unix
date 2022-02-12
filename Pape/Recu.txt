@@ -1,0 +1,2 @@
+Borra.txt;Hola
+Borrar.txt /home/jessie/Desktop/Proyecto/Borrar.txt
